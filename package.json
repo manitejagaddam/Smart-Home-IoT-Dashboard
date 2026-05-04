@@ -2,6 +2,7 @@
   "name": "iot-dashboard--jagadeesh-",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://manitejagaddam.github.io/Smart-Home-IoT-Dashboard/",
   "type": "module",
   "scripts": {
     "dev": "vite",
